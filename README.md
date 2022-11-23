@@ -1,4 +1,4 @@
-## **✋ Hello, where!**
+## **🤟 Hello, where!**
 **▶️ I'm an opensource enthusiast, and I very like Apache v2.0 license.**
 - Currently I work mostly with JavaScript/TypeScript but I know some other technologies 🧑‍💻
 - I like creating libraries and modules 📦
