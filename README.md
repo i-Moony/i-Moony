@@ -4,6 +4,8 @@
 - I like creating libraries and modules 📦
 - I'm self-taught coder 📚
 
+**Currenly I'm working on a very secret project... 🤫**
+
 **Technologies that I use:**
 
 [![Technologies that I use](https://skillicons.dev/icons?i=nodejs,ts,html,css,js,c,cpp,cs&theme=dark)](https://skillicons.dev)
