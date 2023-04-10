@@ -2,7 +2,7 @@
 **▶️ I'm an open-source enthusiast, and I very like Apache v2.0 license.**
 - Currently I work mostly with JavaScript/TypeScript but I know some other technologies 🧑‍💻
 - I like creating libraries and modules 📦
-- I'm self-taught coder 📚
+- I'm a self-taught coder 📚
 
 **Currenly I'm working on a very secret project... 🤫**
 
