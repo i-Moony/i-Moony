@@ -4,6 +4,7 @@
 I'm an indie developer that also like to make music, fun & friends.
 * I like creating libraries, modules & crates 📦
 * I'm a self-taught developer 📚
+* I'm an open-source fan and I'm fond of Apache License 2.0 📜
 
 ## 🧰 Languages & Tools:
 ### 🕸 Web:
