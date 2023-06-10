@@ -1,15 +1,18 @@
-## **🤟 Hello, where!**
-**▶️ I'm an open-source enthusiast, and I very like Apache v2.0 license.**
-- Currently I work mostly with JavaScript/TypeScript but I know some other technologies 🧑‍💻
-- I like creating libraries and modules 📦
-- I'm a self-taught coder 📚
+# 🌙 Moony
+*aka `i-Moony`, `m00ny` or `m00ny_lol`*
 
-**Currenly I'm working on a very secret project... 🤫**
+I'm an indie developer that also like to make music, fun & friends.
+* I like creating libraries, modules & crates 📦
+* I'm a self-taught developer 📚
 
-**Technologies that I use:**
-
-[![Technologies that I use](https://skillicons.dev/icons?i=nodejs,ts,html,css,js,c,cpp,cs&theme=dark)](https://skillicons.dev)
-
-[![Technologies that I use](https://skillicons.dev/icons?i=bash,discord,docker,git,github,linux,neovim,vscode&theme=dark)](https://skillicons.dev)
+## 🧰 Languages & Tools:
+### 🕸 Web:
+![Web](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,svelte,tailwind,vite&theme=dark)
+### 🛠 Tools:
+![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,neovim,vscode&theme=dark)
+### ⏩ Blazingly Fast™:
+![Compiled](https://skillicons.dev/icons?i=rust,tauri&theme=dark)
+### 💁‍♂️ Helpers™:
+![Helpers](https://skillicons.dev/icons?i=lua,md,py&theme=dark)
 
 ![My GitHub stats](http://readme-stats-git-main-i-moony.vercel.app/api?username=i-Moony&show_icons=true&theme=dark)
