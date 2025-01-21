@@ -15,5 +15,3 @@ I'm an indie developer that also like to make music, fun & friends.
 ![Compiled](https://skillicons.dev/icons?i=rust,tauri&theme=dark)
 ### 💁‍♂️ Helpers™:
 ![Helpers](https://skillicons.dev/icons?i=lua,md,py&theme=dark)
-
-![My GitHub stats](http://readme-stats-git-main-i-moony.vercel.app/api?username=i-Moony&show_icons=true&theme=dark)
